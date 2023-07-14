@@ -1,0 +1,11 @@
+C:\Users\matheus.hsilva76\source\repos\PSAula05-Snack\bin\Debug\PSAula05-Snack.exe.config
+C:\Users\matheus.hsilva76\source\repos\PSAula05-Snack\bin\Debug\PSAula05-Snack.exe
+C:\Users\matheus.hsilva76\source\repos\PSAula05-Snack\bin\Debug\PSAula05-Snack.pdb
+C:\Users\matheus.hsilva76\source\repos\PSAula05-Snack\obj\Debug\PSAula05-Snack.csproj.AssemblyReference.cache
+C:\Users\matheus.hsilva76\source\repos\PSAula05-Snack\obj\Debug\PSAula05-Snack.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.hsilva76\source\repos\PSAula05-Snack\obj\Debug\PSAula05_Snack.Form1.resources
+C:\Users\matheus.hsilva76\source\repos\PSAula05-Snack\obj\Debug\PSAula05_Snack.Properties.Resources.resources
+C:\Users\matheus.hsilva76\source\repos\PSAula05-Snack\obj\Debug\PSAula05-Snack.csproj.GenerateResource.cache
+C:\Users\matheus.hsilva76\source\repos\PSAula05-Snack\obj\Debug\PSAula05-Snack.csproj.CoreCompileInputs.cache
+C:\Users\matheus.hsilva76\source\repos\PSAula05-Snack\obj\Debug\PSAula05-Snack.exe
+C:\Users\matheus.hsilva76\source\repos\PSAula05-Snack\obj\Debug\PSAula05-Snack.pdb
